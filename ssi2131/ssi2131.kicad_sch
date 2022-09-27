@@ -311,8 +311,8 @@
     (uuid a396429f-7560-43cb-87e7-ef022ece9b8a)
   )
 
-  (text "RS = (VS-VR) / (IL + IQ)\nVS = 5V\nVR = 2.5V\nIQ = [60 microAamp ~ 15 milliAmp]\nIL = ???"
-    (at 77.47 133.35 0)
+  (text "RS = (VS-VR) / (IL + IQ)\nVS = 5V - does not change\nVR = 2.5V - does not change\nIQ = [60 microAmp ~ 15 milliAmp] - might change\nIL = IDK, assume 100 microAmp? - prolly won't change\nRSmax = (5 - 2.5) / (60 microAmp + 100 microAmp) -> 15600 ohms\nRSmin = (5 - 2.5) / (60 microAmp + 1500 milliAmp -> 166 ohms\n\nCall that a range of 180~15000 ohms?\n(15000 - 180) / 2 = 7410 ohms\n2.2k + 4.7k + 1.0k = 7900 ohms, close enough"
+    (at 43.18 144.78 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 79a1dd20-caaf-4f32-8a17-8d99c8e179f5)
   )
