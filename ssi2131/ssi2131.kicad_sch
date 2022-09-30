@@ -851,7 +851,6 @@
     )
   )
 
-
   (junction (at 40.64 46.99) (diameter 0) (color 0 0 0 0)
     (uuid 00b3e90e-d4ea-41dc-ac52-8fd55fc3be59)
   )
@@ -1518,6 +1517,10 @@
     (uuid fdec7dc1-1ba4-4e54-89fb-c63b6ee32a12)
   )
 
+  (text "SSI2131 Typical Application Circuit" (at 194.31 175.26 0)
+    (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
+    (uuid 0c825886-e6a4-480b-933a-91865e47e8ea)
+  )
   (text "49.9\nkOhms" (at 134.62 38.1 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 20ea7fe7-2b40-47cf-8df3-b6c04e0f3383)
