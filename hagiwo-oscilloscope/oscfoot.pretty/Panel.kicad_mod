@@ -1,0 +1,33 @@
+(footprint "Panel" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 43ac39d5-9349-4014-bf12-f9b0e248666a)
+  )
+  (fp_text value "Panel" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 619e9e51-1258-434a-96e6-339af0befaad)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e7300bcd-3508-45db-9af7-d042a0fa416d)
+  )
+  (fp_rect (start 0 0) (end 30.38 133.35) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp de3e79af-bdc6-495a-a5d8-4d5a56afcdc3))
+  (fp_circle (center 27.77 3) (end 29.37 3) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 65581ce4-1164-414b-9b45-3872fb4022fb))
+  (fp_circle (center 7.45 3) (end 9.05 3) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 70b1b1c6-3f7d-43fb-ab3b-6cb2f420b875))
+  (fp_circle (center 27.77 130.35) (end 29.37 130.35) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp aa3d7631-fa28-4b7a-ab18-de11dabafa25))
+  (fp_circle (center 7.45 130.35) (end 9.05 130.35) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp ad4c7f6a-1183-43a4-a845-5ddb0abb52ee))
+  (group "" (id 16f4cc4f-1010-4ac5-a24f-ed0d48adecf6)
+    (members
+      70b1b1c6-3f7d-43fb-ab3b-6cb2f420b875
+      ad4c7f6a-1183-43a4-a845-5ddb0abb52ee
+    )
+  )
+  (group "" (id 617f320a-7e44-438b-952c-072a5a9a5352)
+    (members
+      65581ce4-1164-414b-9b45-3872fb4022fb
+      aa3d7631-fa28-4b7a-ab18-de11dabafa25
+    )
+  )
+)
