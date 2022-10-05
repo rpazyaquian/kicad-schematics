@@ -55,11 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|44860000|75060000|31537502-78af-4bf4-ac64-8bba7841956b|00219393-04c6-425d-97ab-a484e8db900a",
-        "silk_over_copper|48260000|75060000|31537502-78af-4bf4-ac64-8bba7841956b|e9772cd9-628a-413a-ade1-d9a3f7566ea8",
-        "silk_over_copper|50760000|75060000|31537502-78af-4bf4-ac64-8bba7841956b|f0f14baa-9814-449f-8f89-9ea92b05af4c"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -356,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mozzi2osc.kicad_pro",
+    "filename": "hagiwo-oscilloscope.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -435,7 +431,7 @@
   },
   "sheets": [
     [
-      "d0e77132-a0cf-4824-a801-dde63e41b617",
+      "23245423-5f23-4515-9980-8a7fd9a9f25e",
       ""
     ]
   ],
