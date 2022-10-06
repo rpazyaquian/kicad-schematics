@@ -325,6 +325,11 @@
       (net 4 "GND") (pinfunction "2") (pintype "passive") (tstamp 8bf6a999-d4ff-4690-8424-0ee52b1b7d0e))
     (pad "3" thru_hole circle (at 0 5.08 90) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask)
       (net 6 "OctDown") (pinfunction "3") (pintype "passive") (tstamp 21659068-daf3-4142-a32a-7c823d896a15))
+    (model "${KIPRJMOD}/3dmodels/D22012P.stp"
+      (offset (xyz 0 0 13))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Potentiometer_THT:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" (layer "F.Cu")
@@ -13756,69 +13761,6 @@
         (xy 190.586 35.56)
         (xy 225.894 35.56)
       )
-    )
-  )
-  (group "" (id 53cf4557-00e5-47cc-945d-df5e40699b27)
-    (members
-      05296aef-6e11-44a8-9826-fc047987aeef
-      0f75a2a8-76e3-45c9-9633-72290309dc66
-      15d2a14a-cc55-4394-bc43-1cd307dab306
-      177a68ba-cc1a-4c70-a158-555e3b5d6d2b
-      1c6ba3e1-3a22-4c28-b1c6-7ded2e671424
-      2136d7c6-9de7-453f-911d-64f9ba9d1b0c
-      22c2a4e2-458a-4edb-b798-d83dc2cb1468
-      25627c01-f2f8-479f-9fb3-84063de0df9c
-      2e920a74-fb3d-4d79-9e15-268d86cfab37
-      3009e832-28d4-46ed-9c4e-adb3c474ac80
-      3224c2b3-8fa1-4255-aee6-89132016a976
-      34bef3dd-d8de-4995-baa2-98f43917dae6
-      35cc876b-c5c2-4f49-a4c2-44ed06eab687
-      3af15727-d65f-4f7d-89bf-fd248ad81893
-      45ec5186-1a76-42c5-980d-5897a3e4d4fc
-      4950fcd4-17b7-4a33-8f12-b79e5fafc0c1
-      49b59e76-5767-480e-bdd3-ed49862f3c12
-      4a91eaf7-8896-473f-a2a8-0cf97180f1ca
-      4de20102-ebb4-4fcb-afa0-2137623c5e17
-      5004fc7e-4e62-446e-b9d1-5ab241193154
-      51430ebf-58c4-49f4-b61d-bcb7bde54012
-      54a767b4-9241-4ced-8d27-e815e4c79bee
-      56bc09fa-ac9b-4307-99a3-60c0373fc544
-      57b316ed-95b8-4c17-afa4-14e856cae82d
-      57d7b7c0-e351-4449-946d-599e17abb3bc
-      613c9ebc-b61f-4501-bcd1-dea34159ca33
-      6d801f10-6c0b-4020-87e3-870a099992cb
-      6e102c26-cd09-44ea-8380-d8c92b753054
-      6e81dc08-c52d-4c07-922d-3109abe60150
-      75da610a-77d5-4a9e-87eb-52ac8d72fa66
-      77ee512f-ee48-4d26-ac92-d27db59ee5b1
-      84dd4e1d-c3a9-45b7-bc8b-be59a63b0632
-      88fbbaa4-4a1a-478c-ab7e-bbad5b07ebee
-      8b5537a3-3dc3-4dbf-9c2e-eddc13637c45
-      8bafcf6a-1193-4d3b-856e-67b2f1dcf919
-      8bd3c55e-0642-458c-afcf-9580b05969e0
-      9010002b-2f92-471c-a5d3-1e8fd9f45e20
-      9b3140ec-17d7-4d74-8178-094742d05c81
-      9e5a7fc2-56c0-457d-a521-680dfa4575b0
-      a2fa15b4-2d04-4e26-8ea1-21cd88ed717b
-      ac8685c1-6c08-40ec-b8ca-b75bb7bc0043
-      b7c7c937-f143-4787-9f00-9ba5da52698c
-      bb98b3d0-0322-4c6c-b20b-24703b03b5b9
-      c4b01d59-a707-4a52-8a84-983daf0d436a
-      c684fc14-ce5a-4f94-99b4-f1e4768b8f7c
-      d37166cc-fcf4-4925-b202-40ec95f52ec8
-      d6465ef6-4165-4136-ad9d-a7edde6f5d53
-      d693fb65-233c-44c1-a91b-3a694fb50064
-      d788b753-9191-4f3f-97d0-e4809d230c37
-      e131d01e-53fc-4e78-b04e-4f81da15f20c
-      e7954ebb-8191-4a90-9ca3-9a3f24514851
-      ea315371-528c-4db7-89d3-b1d9fe8724f2
-      eb8915a4-1965-48a7-afef-a00e5e8bb018
-      ee52acea-15ac-4883-9580-8f2ffa7ffe9f
-      f5906c20-a39e-4dbe-9813-c5f76998a4bf
-      f5efba71-6420-4064-8f7b-3df6299c0e41
-      f66f22b0-33ff-4d0d-ba35-8d650b173c50
-      f8aaa63d-ae22-47d5-898d-7840f9b1317b
-      ff7330ac-0fd9-4fa0-9f10-bdccd588b368
     )
   )
   (group "" (id 86c54cbd-2620-4f6b-91e5-6c126e801c1f)
