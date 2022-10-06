@@ -390,7 +390,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "mozzi2osc.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
