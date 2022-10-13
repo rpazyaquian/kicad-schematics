@@ -1,20 +1,63 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="21mm" height="134mm" viewBox="0 -134 21 134" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<title>OpenSCAD Model</title>
-<path d="
-M 20.12,-133.35 L 0,-133.35 L 0,-0 L 20.12,-0 z
-M 6.8257,-128.843 L 6.29646,-129.196 L 5.94283,-129.726 L 5.81865,-130.35 L 5.94283,-130.974 L 6.29646,-131.504
- L 6.8257,-131.857 L 7.45,-131.981 L 8.07428,-131.857 L 8.60353,-131.504 L 8.95715,-130.974 L 9.08134,-130.35
- L 8.95715,-129.726 L 8.60353,-129.196 L 8.07428,-128.843 L 7.45,-128.719 z
-M 11.9057,-128.843 L 11.3764,-129.196 L 11.0228,-129.726 L 10.8987,-130.35 L 11.0228,-130.974 L 11.3764,-131.504
- L 11.9057,-131.857 L 12.53,-131.981 L 13.1543,-131.857 L 13.6835,-131.504 L 14.0372,-130.974 L 14.1613,-130.35
- L 14.0372,-129.726 L 13.6835,-129.196 L 13.1543,-128.843 L 12.53,-128.719 z
-M 6.8257,-1.49283 L 6.29646,-1.84645 L 5.94283,-2.3757 L 5.81865,-3 L 5.94283,-3.62428 L 6.29646,-4.15353
- L 6.8257,-4.50716 L 7.45,-4.63133 L 8.07428,-4.50716 L 8.60353,-4.15353 L 8.95715,-3.62428 L 9.08134,-3
- L 8.95715,-2.3757 L 8.60353,-1.84645 L 8.07428,-1.49283 L 7.45,-1.36865 z
-M 11.9057,-1.49283 L 11.3764,-1.84645 L 11.0228,-2.3757 L 10.8987,-3 L 11.0228,-3.62428 L 11.3764,-4.15353
- L 11.9057,-4.50716 L 12.53,-4.63133 L 13.1543,-4.50716 L 13.6835,-4.15353 L 14.0372,-3.62428 L 14.1613,-3
- L 14.0372,-2.3757 L 13.6835,-1.84645 L 13.1543,-1.49283 L 12.53,-1.36865 z
-" stroke="black" fill="lightgray" stroke-width="0.5"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="21mm"
+   height="134mm"
+   viewBox="0 -134 21 134"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="blank-4hp.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8677621"
+     inkscape:cx="-36.090859"
+     inkscape:cy="239.55962"
+     inkscape:window-width="3840"
+     inkscape:window-height="2075"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g952" />
+  <title
+     id="title2">OpenSCAD Model</title>
+  <g
+     id="g952"
+     style="display:inline;vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline">
+    <path
+       d="M 20.12,-133.5894 H 0 V -0.23940449 h 20.12 z m -13.2943,4.507 -0.52924,-0.353 -0.35363,-0.53 -0.12418,-0.624 0.12418,-0.624 0.35363,-0.53 0.52924,-0.353 0.6243,-0.124 0.62428,0.124 0.52925,0.353 0.35362,0.53 0.12419,0.624 -0.12419,0.624 -0.35362,0.53 -0.52925,0.353 -0.62428,0.124 z m 0,127.3501655 -0.52924,-0.35362 -0.35363,-0.52925 -0.12418,-0.6243 0.12418,-0.62428 0.35363,-0.52925 0.52924,-0.35363 0.6243,-0.12417 0.62428,0.12417 0.52925,0.35363 0.35362,0.52925 0.12419,0.62428 -0.12419,0.6243 -0.35362,0.52925 -0.52925,0.35362 -0.62428,0.12418 z"
+       stroke="#000000"
+       fill="#d3d3d3"
+       stroke-width="0.5"
+       id="path4"
+       style="display:inline;vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+       inkscape:label="path4"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.37763968;stroke:none;stroke-width:0.165;stroke-dasharray:none;image-rendering:auto;stroke-opacity:1"
+     x="3.0321786"
+     y="-64.085464"
+     id="text1014"
+     inkscape:highlight-color="#aaaaaa"><tspan
+       sodipodi:role="line"
+       id="tspan1012"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:monospace;-inkscape-font-specification:'monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.165;stroke-dasharray:none;stroke:none;stroke-opacity:1;fill:#000000;fill-opacity:0.37763968"
+       x="3.0321786"
+       y="-64.085464">4HP</tspan></text>
 </svg>
